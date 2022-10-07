@@ -17,3 +17,17 @@
     height: 100px;
     border: 2px solid black;
 }
+.box1 {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: right;
+}
+.box2 {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    justify-content: flex-end;
+}
